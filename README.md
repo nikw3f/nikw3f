@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nikw3f
+- 👀 I’m a rust substrate developer.
+- 🌱 I’m currently learning xcm and zero knowledge proofs.
+- 💞️ I’m looking to collaborate on interesting substrate chains
+- 📫 You can reach me on twitter on nikw3f
